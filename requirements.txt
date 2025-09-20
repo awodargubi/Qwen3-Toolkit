@@ -2,3 +2,5 @@ librosa
 numpy
 soundfile
 silero-vad
+requests
+replicate
